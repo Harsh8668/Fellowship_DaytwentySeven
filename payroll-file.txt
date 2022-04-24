@@ -1,0 +1,3 @@
+id=1, name='Shubham', salary=250000.0}
+id=2, name='Abhas', salary=550000.0}
+id=3, name='Harsh', salary=450000.0}
